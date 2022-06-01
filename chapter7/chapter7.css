@@ -1,0 +1,23 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.main-visual{
+  width: 100%;
+  height: 400px;
+  background-image: url(img7/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+
+.headerline{
+  padding: 20px;
+}
+
+.blog1{
+
+  display: inline-block;
+}
+
